@@ -1,0 +1,7 @@
+foo:
+    1: Foo1
+    2: Foo2
+    bar:
+     - 'bar1'
+     - 'bar2'
+moreStuff: 'MoreStuff'
